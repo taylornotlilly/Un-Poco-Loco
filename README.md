@@ -40,5 +40,8 @@ Collect the sombraros to gain points (Each sombraro you collect is worth 20 poin
 
 Avoid the shoes (if you don't, you lose a life, making Egg sad :( and nobody wants that )
 
+#### Pretty Pictures!!
+
+
 
 
